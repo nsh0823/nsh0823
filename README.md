@@ -5,7 +5,7 @@
 #
 
 ### **About Me 🧑🏻‍💻**  
-I’m an aspiring **full-stack front-end engineer** currently working as a **programmer/web developer** in Seoul. Previously, I completed a **6-month intensive coding program** in **AI Application Software Development and Data Analysis** at **Encore Playdata**, a coding academy in Seoul.  
+I’m an aspiring **full-stack front-end engineer** currently studying to become a more complete **programmer/web developer** at Naver Boostcamp bootcamp in Seoul. Previously, I worked as a survey programmer/automation expert for about 3 years, and I also completed a **6-month intensive coding program** in **AI Application Software Development and Data Analysis** at **Encore Playdata**, a coding academy in Seoul.  
 
 What I love most about coding is the **problem-solving aspect**—it feels like assembling a complex puzzle. The thrill of **fitting the final piece** and seeing everything come together fuels my passion and keeps me motivated.  
 
@@ -14,6 +14,7 @@ With a **positive mindset and a determined attitude**, I tackle challenges head-
 #
 
 ### Latest Projects 🗺
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=web21-funda)](https://github.com/hyun08231996/web21-funda)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=instaQuote)](https://github.com/hyun08231996/instaQuote)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Self_MiniProject_mySurvey)](https://github.com/hyun08231996/Self_MiniProject_mySurvey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Encore_FinalProject_ONEGO_FE)](https://github.com/hyun08231996/Encore_FinalProject_ONEGO_FE)
