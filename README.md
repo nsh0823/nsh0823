@@ -14,10 +14,10 @@ With a **positive mindset and a determined attitude**, I tackle challenges head-
 #
 
 ### Latest Projects 🗺
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=web21-funda)](https://github.com/hyun08231996/web21-funda)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=instaQuote)](https://github.com/hyun08231996/instaQuote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Self_MiniProject_mySurvey)](https://github.com/hyun08231996/Self_MiniProject_mySurvey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hyun08231996&repo=Encore_FinalProject_ONEGO_FE)](https://github.com/hyun08231996/Encore_FinalProject_ONEGO_FE)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hyun08231996&repo=web21-funda)](https://github.com/hyun08231996/web21-funda)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hyun08231996&repo=instaQuote)](https://github.com/hyun08231996/instaQuote)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hyun08231996&repo=Self_MiniProject_mySurvey)](https://github.com/hyun08231996/Self_MiniProject_mySurvey)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=hyun08231996&repo=Encore_FinalProject_ONEGO_FE)](https://github.com/hyun08231996/Encore_FinalProject_ONEGO_FE)
 
 
 #
@@ -32,8 +32,8 @@ With a **positive mindset and a determined attitude**, I tackle challenges head-
 
 
 ### GitHub Statistics 💹
-[![Peter's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun08231996)](https://github.com/hyun08231996) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun08231996&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/hyun08231996)
+[![Peter's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyun08231996)](https://github.com/hyun08231996) <br>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hyun08231996&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/hyun08231996)
 
 
 #
