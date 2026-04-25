@@ -12,7 +12,7 @@ I’m an aspiring **full-stack web developer** passionate about building seamles
 
 Previously, I worked as a survey programmer/automation expert for about 3 years at DataSpring Korea, where I increased team productivity and streamlined operations by architecting an internal quotation web application, reducing manual processing time and improving overall workflow efficiency. 
 
-I also completed a **6-month intensive coding program** in **AI Application Software Development and Data Analysis** at **Encore Playdata** and **8-month full-stack web development** bootcamp at **Naver Boostcamp** in Seoul.
+I also completed a **8-month full-stack web development** bootcamp at **Naver Boostcamp** and a **6-month coding bootcamp** in **AI Application Software Development and Data Analysis** at **Encore Playdata** and in Seoul.
 
 What I love most about coding is the **problem-solving aspect**—it feels like assembling a complex puzzle. The thrill of **fitting the final piece** and seeing everything come together fuels my passion and keeps me motivated.  
 
