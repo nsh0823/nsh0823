@@ -2,9 +2,10 @@
 
 <!---
 ![alt text](https://github.com/hyun08231996/hyun08231996/blob/main/Peter_Nam_Banner.png?raw=true)
---->
 
 #
+--->
+
 
 ### **About Me 🧑🏻‍💻**  
 I’m an aspiring **full-stack web developer** passionate about building seamless user experiences. I enjoy turning complex problems into simple, elegant web solutions and am actively looking for my next technical challenge. 
@@ -127,8 +128,8 @@ With a **positive mindset and a determined attitude**, I tackle challenges head-
 
 
 ### GitHub Statistics 💹
-[![Peter's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyun08231996)](https://github.com/hyun08231996) <br>
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hyun08231996&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/hyun08231996)
+[![Peter's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=nsh0823)](https://github.com/nsh0823) <br>
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nsh0823&hide=jupyter%20notebook&layout=compact&langs_count=6)](https://github.com/nsh0823)
 
 
 #
