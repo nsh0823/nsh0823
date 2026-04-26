@@ -21,10 +21,11 @@ With a **positive mindset and a determined attitude**, I tackle challenges head-
 #
 
 ### Latest Projects 🗺
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=nsh0823&repo=portfolio)](https://github.com/nsh0823/portfolio)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=nsh0823&repo=funda)](https://github.com/nsh0823/funda)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=nsh0823&repo=instaQuote)](https://github.com/nsh0823/instaQuote)
 [![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=nsh0823&repo=onego)](https://github.com/nsh0823/onego)
-[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=nsh0823&repo=Self_MiniProject_mySurvey)](https://github.com/nsh0823/Self_MiniProject_mySurvey)
+
 
 
 #
